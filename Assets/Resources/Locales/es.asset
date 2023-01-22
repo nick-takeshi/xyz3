@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0a8134ab1392984ca19487b1066e24b, type: 3}
+  m_Name: es
+  m_EditorClassIdentifier: 
+  _url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6WKik0ukVpxDjb5rXat3xNNz6yzKfIK-ASCVr4Ux4CRnrHfwKDQY9WFMU1CqGqcI9_gjCQJ0pCp-s/pub?gid=1492585297&single=true&output=tsv
+  _localItems:
+  - Key: menu_title
+    Value: "men\xFA\r"
+  - Key: button_start
+    Value: "comienzo\r"
+  - Key: button_options
+    Value: "opciones\r"
+  - Key: button_exit
+    Value: "salida\r"
+  - Key: selected_language
+    Value: "El idioma seleccionado es {0}\r"
+  - Key: button_back
+    Value: "espalda\r"
+  - Key: button_language
+    Value: "idioma\r"
+  - Key: button_pause
+    Value: "pausa\r"
+  - Key: button_music
+    Value: "m\xFAsica\r"
+  - Key: button_sounds
+    Value: "suena\r"
+  - Key: button_resume
+    Value: "reanudar\r"
+  - Key: button_restart
+    Value: "reiniciar\r"
+  - Key: button_mainmenu
+    Value: "men\xFA principal\r"
+  - Key: button_gamemenu
+    Value: "men\xFA del juego\r"
+  - Key: button_use
+    Value: "usar\r"
+  - Key: button_buy
+    Value: "comprar\r"
+  - Key: text_price
+    Value: "precio\r"
+  - Key: text_double_jump
+    Value: "\xA1Doble salto! Es probable que salte y salte... hop hop\r"
+  - Key: text_shield
+    Value: "Cuando lo uses, te da un escudo de 2 segundos\r"
+  - Key: button_upgrade
+    Value: "mejora\r"
+  - Key: text_health
+    Value: "salud\r"
+  - Key: text_speed
+    Value: "velocidad\r"
+  - Key: text_range_attack
+    Value: ataque
+  - Key: text_crit
+    Value: "da\xF1o cr\xEDtico\r"
+  - Key: text_blue_hat
+    Value: "Sombrero azul regular est\xE1ndar\r"
+  - Key: text_red_hat
+    Value: "\xA1El otro sombrero es el sombrero rojo!\r"
+  - Key: text_npc_1
+    Value: "Hola, amigo, ayuda a mi hermano a vengarse.\r"
+  - Key: text_npc_2
+    Value: "Absolutamente por nada\r"
+  - Key: text_npc_3
+    Value: "Use Q para seleccionar el elemento y Shift para usarlo\r"
+  - Key: text_npc_4
+    Value: "\xBFQuieres algunas pieles?\r"
+  - Key: text_dodge
+    Value: "\xDAsalo para evitar el ataque de los enemigos.\r"
+  - Key: text_green_dolphin
+    Value: "Delf\xEDn verde. \xBFPor qu\xE9 delf\xEDn? NO S\xC9\r"
+  - Key: text_red_key
+    Value: "Necesito una llave roja...\r"
+  - Key: text_yellow_key
+    Value: "Necesito una llave amarilla...\r"
+  - Key: text_use_shift
+    Value: "Presiona Shift para usar el \xEDtem\r"
+  - Key: text_use_q
+    Value: "Presione Q para cambiar la selecci\xF3n al siguiente elemento\r"
+  - Key: text_boss2
+    Value: "tuu-duu-tuu\r"
+  - Key: text_boss2_p
+    Value: "\xA1\xBFQu\xE9?!\r"
+  - Key: text_boss1
+    Value: "\xA1Aqu\xED vienes!\r"
+  - Key: text_boss1_p
+    Value: "\xA1Te matar\xE9!\r"
+  - Key: text_boss1_end
+    Value: "\xA1Nooooo!\r"
+  - Key: text_boss1_end_p
+    Value: hi-hi-hi-ha!
